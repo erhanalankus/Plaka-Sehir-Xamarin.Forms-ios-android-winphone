@@ -1,4 +1,4 @@
-# Plaka-Sehir-Xamarin.Forms-ios-android-winphone
+# Plaka Şehir
 The cross platform Xamarin.Forms app that I published. The app provides info on Turkish cities.
 
 Using AdMob for ads, Xamarin Insights for analytics.
