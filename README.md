@@ -1,4 +1,6 @@
-# Plaka Şehir
+<img src="http://erhan.alankus.com/wp-content/uploads/2015/10/PlakaPromo.png"/>
+
+
 The cross platform Xamarin.Forms app that I published. The app provides info on Turkish cities.
 
 Using AdMob for ads, Xamarin Insights for analytics.
