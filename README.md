@@ -1,4 +1,4 @@
-<img src="http://erhan.alankus.com/wp-content/uploads/2015/10/PlakaPromo.png"/>
+<img src="https://raw.githubusercontent.com/erhanalankus/Plaka-Sehir-Xamarin.Forms-ios-android-winphone/master/PlakaPromo.png"/>
 
 
 The cross platform Xamarin.Forms app that I published. The app provides info on Turkish cities.
