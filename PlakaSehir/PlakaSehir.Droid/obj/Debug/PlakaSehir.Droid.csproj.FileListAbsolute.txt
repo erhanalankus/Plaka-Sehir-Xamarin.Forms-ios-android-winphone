@@ -1,0 +1,220 @@
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\PlakaSehir.Droid.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\PlakaSehir.Droid.pdb
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\PlakaSehir.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\PlakaSehir.pdb
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\PlakaSehir.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\PlakaSehir.Droid.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\PlakaSehir.Droid.pdb
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\R.cs.flag
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\uploadflags.txt
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\adana640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\adiyaman640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\afyonkarahisar640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\agri640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\aksaray640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\amasya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\ankara640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\antalya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\ardahan640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\artvin640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\aydin640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\balikesir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bartin640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\batman640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bayburt640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bilecik640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bingol640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bitlis640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bolu640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\burdur640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bursa640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\canakkale640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\cankiri640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\corum640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\denizli640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\diyarbakir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\duzce640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\edirne640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\elazig640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\erzincan640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\erzurum640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\eskisehir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\gaziantep640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\giresun640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\gumushane640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\hakkari640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\hatay640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\igdir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\isparta640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\istanbul640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\izmir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kahramanmaras640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\karabuk640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\karaman640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kars640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kastamonu640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kayseri640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kilis640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kirikkale640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kirklareli640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kirsehir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kocaeli640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\konya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kutahya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\malatya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\manisa640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\mardin640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\mersin640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\mugla640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\mus640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\nevsehir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\nigde640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\ordu640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\osmaniye640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\rize640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\sakarya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\samsun640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\sanliurfa640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\siirt640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\sinop640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\sirnak640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\sivas640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\tekirdag640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\tokat640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\trabzon640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\tunceli640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\usak640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\van640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\yalova640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\yozgat640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\zonguldak640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.GooglePlayServices.Ads.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.GooglePlayServices.Analytics.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Insights.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Insights.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\com.erh.PlakaSehir.apk
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\com.erh.PlakaSehir-Signed.apk
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\android\bin\com.erh.PlakaSehir.apk
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\PlakaSehir.Droid.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\PlakaSehir.Droid.pdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\com.erh.PlakaSehir.apk
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\com.erh.PlakaSehir-Signed.apk
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\FormsViewGroup.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\PlakaSehir.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.GooglePlayServices.Ads.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.GooglePlayServices.Analytics.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Insights.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\PlakaSehir.pdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\bin\Debug\Xamarin.Insights.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\PlakaSehir.Droid.csprojResolveAssemblyReference.cache
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\PlakaSehir.Droid.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\PlakaSehir.Droid.pdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\android\bin\com.erh.PlakaSehir.apk
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\adana640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\adiyaman640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\afyonkarahisar640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\agri640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\aksaray640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\amasya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\ankara640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\antalya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\ardahan640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\artvin640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\aydin640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\balikesir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bartin640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\batman640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bayburt640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bilecik640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bingol640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bitlis640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bolu640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\burdur640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\bursa640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\canakkale640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\cankiri640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\corum640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\denizli640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\diyarbakir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\duzce640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\edirne640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\elazig640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\erzincan640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\erzurum640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\eskisehir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\gaziantep640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\giresun640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\gumushane640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\hakkari640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\hatay640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\igdir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\isparta640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\istanbul640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\izmir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kahramanmaras640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\karabuk640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\karaman640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kars640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kastamonu640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kayseri640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kilis640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kirikkale640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kirklareli640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kirsehir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kocaeli640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\konya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\kutahya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\malatya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\manisa640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\mardin640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\mersin640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\mugla640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\mus640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\nevsehir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\nigde640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\ordu640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\osmaniye640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\rize640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\sakarya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\samsun640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\sanliurfa640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\siirt640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\sinop640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\sirnak640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\sivas640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\tekirdag640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\tokat640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\trabzon640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\tunceli640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\usak640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\van640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\yalova640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\yozgat640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\zonguldak640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable\icon.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\R.cs.flag
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.Droid\obj\Debug\uploadflags.txt

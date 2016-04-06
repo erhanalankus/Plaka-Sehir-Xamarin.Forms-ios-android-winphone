@@ -1,0 +1,267 @@
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\PlakaSehiriOS.exe
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\PlakaSehiriOS.pdb
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\PlakaSehir.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\PlakaSehir.pdb
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\PlakaSehir.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\PlakaSehiriOS.exe
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\PlakaSehiriOS.pdb
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects-8.0+.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\runtime.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects-8.0+.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\runtime.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects-8.0+.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\runtime.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects-8.0+.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\runtime.nib
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info-8.0+.plist
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info.plist
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info-8.0+.plist
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info.plist
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\afyonKarahisar640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\agri640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\aksaray640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\amasya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\ankara640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\antalya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\ardahan640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\artvin640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\aydin640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\balikesir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bartin640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\batman640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bayburt640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bilecik640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bingol640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bitlis640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bolu640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\burdur640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bursa640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\canakkale640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\cankiri640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\corum640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\denizli640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\diyarbakir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\duzce640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\edirne640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\elazig640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\erzincan640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\erzurum640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\eskisehir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\gaziantep640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\giresun640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\gumushane640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\hakkari640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\hatay640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\igdir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\isparta640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\istanbul640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\izmir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kahramanmaras640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\karabuk640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\karaman640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kars640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kastamonu640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kayseri640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kilis640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kirikkale640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kirklareli640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kirsehir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kocaeli640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\konya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kutahya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\malatya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\manisa640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\mardin640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\mersin640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\mugla640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\mus640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\nevsehir640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\nigde640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\ordu640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\osmaniye640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\rize640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\sakarya640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\samsun640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\sanliurfa640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\siirt640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\sinop640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\sirnak640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\sivas640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\tekirdag640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\tokat640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\trabzon640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\tunceli640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\usak640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\van640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\yalova640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\yozgat640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\zonguldak640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\adana640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\adiyaman640.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\GoogleAdMobAds.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon@2x.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-60@2x.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-72.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-72@2x.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-76.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-76@2x.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small@2x.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small-50.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small-50@2x.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small-40.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small-40@2x.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Default.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Default@2x.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Default-568h@2x.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Default-Portrait.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Default-Portrait@2x.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\PLCrashReporterUnifiedBinding.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Insights.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Insights.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\PlakaSehiriOS.exe
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\PlakaSehiriOS.pdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\GoogleAdMobAds.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\PlakaSehir.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\PLCrashReporterUnifiedBinding.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Insights.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\PlakaSehir.pdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\Xamarin.Insights.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects-8.0+.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\runtime.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects-8.0+.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\runtime.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects-8.0+.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\runtime.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects-8.0+.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\runtime.nib
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info-8.0+.plist
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info.plist
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info-8.0+.plist
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info.plist
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small@2x.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\afyonKarahisar640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\agri640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\aksaray640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\amasya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\ankara640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\antalya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\ardahan640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\artvin640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\aydin640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\balikesir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bartin640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\batman640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bayburt640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bilecik640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bingol640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bitlis640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bolu640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\burdur640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\bursa640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\canakkale640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\cankiri640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\corum640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\denizli640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\diyarbakir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\duzce640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\edirne640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\elazig640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\erzincan640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\erzurum640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\eskisehir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\gaziantep640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\giresun640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\gumushane640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\hakkari640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\hatay640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\igdir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\isparta640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\istanbul640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\izmir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kahramanmaras640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\karabuk640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\karaman640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kars640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kastamonu640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kayseri640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kilis640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kirikkale640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kirklareli640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kirsehir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kocaeli640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\konya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\kutahya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\malatya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\manisa640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\mardin640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\mersin640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\mugla640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\mus640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\nevsehir640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\nigde640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\ordu640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\osmaniye640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\rize640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\sakarya640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\samsun640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\sanliurfa640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\siirt640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\sinop640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\sirnak640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\sivas640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\tekirdag640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\tokat640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\trabzon640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\tunceli640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\usak640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\van640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\yalova640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\yozgat640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\zonguldak640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\adana640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Sehirler\adiyaman640.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon@2x.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-60@2x.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-72.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-72@2x.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-76.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-76@2x.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small-50.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small-50@2x.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small-40.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small-40@2x.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Default.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Default@2x.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Default-568h@2x.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Default-Portrait.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\Default-Portrait@2x.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\PlakaSehir.iOS.csprojResolveAssemblyReference.cache
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\PlakaSehiriOS.exe
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\PlakaSehiriOS.pdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\obj\iPhoneSimulator\Debug\PlakaSehiriOS.exe.mdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.iOS\bin\iPhoneSimulator\Debug\PlakaSehiriOS.exe.mdb

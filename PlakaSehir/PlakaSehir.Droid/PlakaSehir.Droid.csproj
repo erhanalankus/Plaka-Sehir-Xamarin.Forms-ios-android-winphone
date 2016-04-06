@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6647D464-CD24-4291-8C0E-C75F39EE4391}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PlakaSehir.Droid</RootNamespace>
+    <AssemblyName>PlakaSehir.Droid</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <AndroidApplication>true</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <AndroidUseLatestPlatformSdk>False</AndroidUseLatestPlatformSdk>
+    <AndroidSupportedAbis>armeabi,armeabi-v7a,x86</AndroidSupportedAbis>
+    <AndroidStoreUncompressedFileExtensions />
+    <MandroidI18n />
+    <JavaMaximumHeapSize />
+    <JavaOptions />
+    <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
+    <AndroidLinkMode>Full</AndroidLinkMode>
+    <AndroidLinkSkip />
+    <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
+    <BundleAssemblies>False</BundleAssemblies>
+    <AndroidCreatePackagePerAbi>False</AndroidCreatePackagePerAbi>
+    <AndroidSupportedAbis>armeabi,armeabi-v7a,x86</AndroidSupportedAbis>
+    <AndroidStoreUncompressedFileExtensions />
+    <MandroidI18n />
+    <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
+    <Debugger>Xamarin</Debugger>
+    <AndroidEnableMultiDex>False</AndroidEnableMultiDex>
+    <DevInstrumentationEnabled>False</DevInstrumentationEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
+    <AndroidLinkMode>Full</AndroidLinkMode>
+    <AndroidLinkSkip />
+    <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
+    <BundleAssemblies>False</BundleAssemblies>
+    <AndroidCreatePackagePerAbi>False</AndroidCreatePackagePerAbi>
+    <AndroidSupportedAbis>armeabi,armeabi-v7a,x86</AndroidSupportedAbis>
+    <AndroidStoreUncompressedFileExtensions />
+    <MandroidI18n />
+    <Debugger>Xamarin</Debugger>
+    <AotAssemblies>False</AotAssemblies>
+    <EnableLLVM>False</EnableLLVM>
+    <AndroidEnableMultiDex>False</AndroidEnableMultiDex>
+    <EnableProguard>False</EnableProguard>
+    <DevInstrumentationEnabled>False</DevInstrumentationEnabled>
+    <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FormsViewGroup, Version=1.3.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\FormsViewGroup.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Mono.Android" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Android.Support.v4.23.0.1.1\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Core, Version=1.3.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\Xamarin.Forms.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Xaml, Version=1.3.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Ads, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.GooglePlayServices.Ads.26.0.0.0\lib\MonoAndroid41\Xamarin.GooglePlayServices.Ads.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Analytics, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.GooglePlayServices.Analytics.26.0.0.0\lib\MonoAndroid41\Xamarin.GooglePlayServices.Analytics.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.AppIndexing, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.GooglePlayServices.AppIndexing.26.0.0.0\lib\MonoAndroid41\Xamarin.GooglePlayServices.AppIndexing.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Base, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.GooglePlayServices.Base.26.0.0.0\lib\MonoAndroid41\Xamarin.GooglePlayServices.Base.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Insights, Version=1.11.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Insights.1.11.1\lib\MonoAndroid10\Xamarin.Insights.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdControlDroid.cs" />
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="Resources\Resource.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\adana640.png" />
+    <AndroidResource Include="Resources\drawable\adiyaman640.png" />
+    <AndroidResource Include="Resources\drawable\afyonkarahisar640.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable\agri640.png" />
+    <AndroidResource Include="Resources\drawable\aksaray640.png" />
+    <AndroidResource Include="Resources\drawable\amasya640.png" />
+    <AndroidResource Include="Resources\drawable\ankara640.png" />
+    <AndroidResource Include="Resources\drawable\antalya640.png" />
+    <AndroidResource Include="Resources\drawable\ardahan640.png" />
+    <AndroidResource Include="Resources\drawable\artvin640.png" />
+    <AndroidResource Include="Resources\drawable\aydin640.png" />
+    <AndroidResource Include="Resources\drawable\balikesir640.png" />
+    <AndroidResource Include="Resources\drawable\bartin640.png" />
+    <AndroidResource Include="Resources\drawable\batman640.png" />
+    <AndroidResource Include="Resources\drawable\bayburt640.png" />
+    <AndroidResource Include="Resources\drawable\bilecik640.png" />
+    <AndroidResource Include="Resources\drawable\bingol640.png" />
+    <AndroidResource Include="Resources\drawable\bitlis640.png" />
+    <AndroidResource Include="Resources\drawable\bolu640.png" />
+    <AndroidResource Include="Resources\drawable\burdur640.png" />
+    <AndroidResource Include="Resources\drawable\bursa640.png" />
+    <AndroidResource Include="Resources\drawable\canakkale640.png" />
+    <AndroidResource Include="Resources\drawable\cankiri640.png" />
+    <AndroidResource Include="Resources\drawable\corum640.png" />
+    <AndroidResource Include="Resources\drawable\denizli640.png" />
+    <AndroidResource Include="Resources\drawable\diyarbakir640.png" />
+    <AndroidResource Include="Resources\drawable\duzce640.png" />
+    <AndroidResource Include="Resources\drawable\edirne640.png" />
+    <AndroidResource Include="Resources\drawable\elazig640.png" />
+    <AndroidResource Include="Resources\drawable\erzincan640.png" />
+    <AndroidResource Include="Resources\drawable\erzurum640.png" />
+    <AndroidResource Include="Resources\drawable\eskisehir640.png" />
+    <AndroidResource Include="Resources\drawable\gaziantep640.png" />
+    <AndroidResource Include="Resources\drawable\giresun640.png" />
+    <AndroidResource Include="Resources\drawable\gumushane640.png" />
+    <AndroidResource Include="Resources\drawable\hakkari640.png" />
+    <AndroidResource Include="Resources\drawable\hatay640.png" />
+    <AndroidResource Include="Resources\drawable\igdir640.png" />
+    <AndroidResource Include="Resources\drawable\isparta640.png" />
+    <AndroidResource Include="Resources\drawable\istanbul640.png" />
+    <AndroidResource Include="Resources\drawable\izmir640.png" />
+    <AndroidResource Include="Resources\drawable\kahramanmaras640.png" />
+    <AndroidResource Include="Resources\drawable\karabuk640.png" />
+    <AndroidResource Include="Resources\drawable\karaman640.png" />
+    <AndroidResource Include="Resources\drawable\kars640.png" />
+    <AndroidResource Include="Resources\drawable\kastamonu640.png" />
+    <AndroidResource Include="Resources\drawable\kayseri640.png" />
+    <AndroidResource Include="Resources\drawable\kilis640.png" />
+    <AndroidResource Include="Resources\drawable\kirikkale640.png" />
+    <AndroidResource Include="Resources\drawable\kirklareli640.png" />
+    <AndroidResource Include="Resources\drawable\kirsehir640.png" />
+    <AndroidResource Include="Resources\drawable\kocaeli640.png" />
+    <AndroidResource Include="Resources\drawable\konya640.png" />
+    <AndroidResource Include="Resources\drawable\kutahya640.png" />
+    <AndroidResource Include="Resources\drawable\malatya640.png" />
+    <AndroidResource Include="Resources\drawable\manisa640.png" />
+    <AndroidResource Include="Resources\drawable\mardin640.png" />
+    <AndroidResource Include="Resources\drawable\mersin640.png" />
+    <AndroidResource Include="Resources\drawable\mugla640.png" />
+    <AndroidResource Include="Resources\drawable\mus640.png" />
+    <AndroidResource Include="Resources\drawable\nevsehir640.png" />
+    <AndroidResource Include="Resources\drawable\nigde640.png" />
+    <AndroidResource Include="Resources\drawable\ordu640.png" />
+    <AndroidResource Include="Resources\drawable\osmaniye640.png" />
+    <AndroidResource Include="Resources\drawable\rize640.png" />
+    <AndroidResource Include="Resources\drawable\sakarya640.png" />
+    <AndroidResource Include="Resources\drawable\samsun640.png" />
+    <AndroidResource Include="Resources\drawable\sanliurfa640.png" />
+    <AndroidResource Include="Resources\drawable\siirt640.png" />
+    <AndroidResource Include="Resources\drawable\sinop640.png" />
+    <AndroidResource Include="Resources\drawable\sirnak640.png" />
+    <AndroidResource Include="Resources\drawable\sivas640.png" />
+    <AndroidResource Include="Resources\drawable\tekirdag640.png" />
+    <AndroidResource Include="Resources\drawable\tokat640.png" />
+    <AndroidResource Include="Resources\drawable\trabzon640.png" />
+    <AndroidResource Include="Resources\drawable\tunceli640.png" />
+    <AndroidResource Include="Resources\drawable\usak640.png" />
+    <AndroidResource Include="Resources\drawable\van640.png" />
+    <AndroidResource Include="Resources\drawable\yalova640.png" />
+    <AndroidResource Include="Resources\drawable\yozgat640.png" />
+    <AndroidResource Include="Resources\drawable\zonguldak640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AndroidManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PlakaSehir\PlakaSehir.csproj">
+      <Name>PlakaSehir</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <Import Project="..\..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets'))" />
+    <Error Condition="!Exists('..\..\packages\Xamarin.Insights.1.11.1\build\MonoAndroid10\Xamarin.Insights.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Xamarin.Insights.1.11.1\build\MonoAndroid10\Xamarin.Insights.targets'))" />
+  </Target>
+  <Import Project="..\..\packages\Xamarin.Insights.1.11.1\build\MonoAndroid10\Xamarin.Insights.targets" Condition="Exists('..\..\packages\Xamarin.Insights.1.11.1\build\MonoAndroid10\Xamarin.Insights.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+     Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

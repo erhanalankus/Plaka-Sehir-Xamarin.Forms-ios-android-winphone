@@ -1,0 +1,24 @@
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\PlakaSehir.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\PlakaSehir.pdb
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir\obj\Debug\PlakaSehir.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir\obj\Debug\PlakaSehir.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir\obj\Debug\PlakaSehir.pdb
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir\obj\Debug\PlakaSehir.AppResources.resources
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir\obj\Debug\PlakaSehir.csproj.GenerateResource.Cache
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\PlakaSehir.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\PlakaSehir.pdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\Xamarin.Forms.Core.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\Xamarin.Forms.Core.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\obj\Debug\PlakaSehir.csprojResolveAssemblyReference.cache
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\obj\Debug\PlakaSehir.AppResources.resources
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\obj\Debug\PlakaSehir.csproj.GenerateResource.Cache
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\obj\Debug\PlakaSehir.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\obj\Debug\PlakaSehir.pdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\obj\Debug\PlakaSehir.dll.mdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir\bin\Debug\PlakaSehir.dll.mdb

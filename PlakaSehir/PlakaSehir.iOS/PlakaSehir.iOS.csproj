@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6F4FE7C2-5C64-43DC-86B4-DD7B2BF0A9E2}</ProjectGuid>
+    <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>PlakaSehir.iOS</RootNamespace>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>PlakaSehiriOS</AssemblyName>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>i386, x86_64</MtouchArch>
+    <MtouchLink>None</MtouchLink>
+    <MtouchDebug>True</MtouchDebug>
+    <MtouchSdkVersion>9.0</MtouchSdkVersion>
+    <MtouchProfiling>False</MtouchProfiling>
+    <MtouchFastDev>False</MtouchFastDev>
+    <MtouchUseLlvm>False</MtouchUseLlvm>
+    <MtouchUseThumb>False</MtouchUseThumb>
+    <MtouchUseSGen>False</MtouchUseSGen>
+    <MtouchUseRefCounting>False</MtouchUseRefCounting>
+    <MtouchOptimizePNGs>True</MtouchOptimizePNGs>
+    <MtouchI18n />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchLink>None</MtouchLink>
+    <MtouchArch>i386, x86_64</MtouchArch>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>ARMv7, ARM64</MtouchArch>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchDebug>true</MtouchDebug>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchArch>ARMv7, ARM64</MtouchArch>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <CodesignProvision>
+    </CodesignProvision>
+    <CodesignResourceRules />
+    <CodesignExtraArgs />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
+    <DebugType>none</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>bin\iPhone\Ad-Hoc</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+    <MtouchArch>ARMv7, ARMv7s, ARM64</MtouchArch>
+    <BuildIpa>True</BuildIpa>
+    <CodesignProvision>643efd82-0ca2-4bbd-817c-cbbf960d4010</CodesignProvision>
+    <CodesignKey>iPhone Distribution: Erhan Alankus (9CQ3TCNVMX)</CodesignKey>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <CodesignResourceRules />
+    <CodesignExtraArgs />
+    <MtouchSdkVersion>9.0</MtouchSdkVersion>
+    <MtouchLink>SdkOnly</MtouchLink>
+    <MtouchDebug>False</MtouchDebug>
+    <MtouchProfiling>False</MtouchProfiling>
+    <MtouchFastDev>False</MtouchFastDev>
+    <MtouchUseLlvm>True</MtouchUseLlvm>
+    <MtouchUseThumb>False</MtouchUseThumb>
+    <MtouchUseSGen>False</MtouchUseSGen>
+    <MtouchUseRefCounting>False</MtouchUseRefCounting>
+    <MtouchOptimizePNGs>True</MtouchOptimizePNGs>
+    <MtouchI18n />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'AppStore|iPhone' ">
+    <DebugType>none</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>bin\iPhone\AppStore</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+    <MtouchArch>ARMv7, ARM64</MtouchArch>
+    <CodesignProvision>643efd82-0ca2-4bbd-817c-cbbf960d4010</CodesignProvision>
+    <CodesignKey>iPhone Distribution: Erhan Alankus (9CQ3TCNVMX)</CodesignKey>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchSdkVersion>9.0</MtouchSdkVersion>
+    <MtouchLink>SdkOnly</MtouchLink>
+    <MtouchDebug>False</MtouchDebug>
+    <MtouchProfiling>False</MtouchProfiling>
+    <MtouchFastDev>False</MtouchFastDev>
+    <MtouchUseLlvm>True</MtouchUseLlvm>
+    <MtouchUseThumb>False</MtouchUseThumb>
+    <MtouchUseSGen>False</MtouchUseSGen>
+    <MtouchUseRefCounting>False</MtouchUseRefCounting>
+    <MtouchOptimizePNGs>True</MtouchOptimizePNGs>
+    <MtouchI18n />
+    <MtouchEnableGenericValueTypeSharing>True</MtouchEnableGenericValueTypeSharing>
+    <CodesignResourceRules />
+    <CodesignExtraArgs />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhoneSimulator'">
+    <MtouchSdkVersion>9.0</MtouchSdkVersion>
+    <MtouchLink>SdkOnly</MtouchLink>
+    <MtouchDebug>False</MtouchDebug>
+    <MtouchProfiling>False</MtouchProfiling>
+    <MtouchFastDev>False</MtouchFastDev>
+    <MtouchArch>i386</MtouchArch>
+    <MtouchUseLlvm>True</MtouchUseLlvm>
+    <MtouchUseThumb>False</MtouchUseThumb>
+    <MtouchUseSGen>False</MtouchUseSGen>
+    <MtouchUseRefCounting>False</MtouchUseRefCounting>
+    <MtouchOptimizePNGs>True</MtouchOptimizePNGs>
+    <MtouchI18n />
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AdControliOS.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <None Include="Entitlements.plist" />
+    <None Include="Info.plist" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <ITunesArtwork Include="iTunesArtwork%402x" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PlakaSehir\PlakaSehir.csproj">
+      <Name>PlakaSehir</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="GoogleAdMobAds">
+      <HintPath>..\..\Components\googleadmob-7.2.2\lib\ios-unified\GoogleAdMobAds.dll</HintPath>
+    </Reference>
+    <Reference Include="PLCrashReporterUnifiedBinding, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Insights.1.11.1\lib\Xamarin.iOS10\PLCrashReporterUnifiedBinding.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Xamarin.Forms.Core, Version=1.3.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.1.3.3.6323\lib\Xamarin.iOS10\Xamarin.Forms.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Platform.iOS, Version=1.3.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.1.3.3.6323\lib\Xamarin.iOS10\Xamarin.Forms.Platform.iOS.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Xaml, Version=1.3.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.1.3.3.6323\lib\Xamarin.iOS10\Xamarin.Forms.Xaml.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Insights, Version=1.11.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Insights.1.11.1\lib\Xamarin.iOS10\Xamarin.Insights.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.iOS" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small%402x.png" />
+    <BundleResource Include="Resources\Sehirler\afyonKarahisar640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\agri640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\aksaray640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\amasya640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\ankara640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\antalya640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\ardahan640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\artvin640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\aydin640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\balikesir640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\bartin640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\batman640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\bayburt640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\bilecik640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\bingol640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\bitlis640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\bolu640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\burdur640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\bursa640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\canakkale640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\cankiri640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\corum640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\denizli640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\diyarbakir640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\duzce640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\edirne640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\elazig640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\erzincan640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\erzurum640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\eskisehir640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\gaziantep640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\giresun640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\gumushane640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\hakkari640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\hatay640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\igdir640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\isparta640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\istanbul640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\izmir640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\kahramanmaras640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\karabuk640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\karaman640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\kars640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\kastamonu640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\kayseri640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\kilis640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\kirikkale640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\kirklareli640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\kirsehir640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\kocaeli640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\konya640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\kutahya640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\malatya640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\manisa640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\mardin640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\mersin640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\mugla640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\mus640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\nevsehir640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\nigde640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\ordu640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\osmaniye640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\rize640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\sakarya640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\samsun640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\sanliurfa640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\siirt640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\sinop640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\sirnak640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\sivas640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\tekirdag640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\tokat640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\trabzon640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\tunceli640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\usak640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\van640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\yalova640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\yozgat640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\zonguldak640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\adana640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sehirler\adiyaman640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <XamarinComponentReference Include="googleadmob">
+      <Visible>False</Visible>
+      <Version>7.2.2</Version>
+    </XamarinComponentReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-60%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-72%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-76.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-76%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small-50%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small-40%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Default.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Default%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Default-568h%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Default-Portrait.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Default-Portrait%402x.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <Import Project="..\..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets'))" />
+    <Error Condition="!Exists('..\..\packages\Xamarin.Insights.1.11.1\build\Xamarin.iOS10\Xamarin.Insights.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Xamarin.Insights.1.11.1\build\Xamarin.iOS10\Xamarin.Insights.targets'))" />
+  </Target>
+  <Import Project="..\..\packages\Xamarin.Insights.1.11.1\build\Xamarin.iOS10\Xamarin.Insights.targets" Condition="Exists('..\..\packages\Xamarin.Insights.1.11.1\build\Xamarin.iOS10\Xamarin.Insights.targets')" />
+</Project>

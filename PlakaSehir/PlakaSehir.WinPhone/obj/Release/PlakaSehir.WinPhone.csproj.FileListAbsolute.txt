@@ -1,0 +1,192 @@
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\SplashScreenImage.jpg
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\AppManifest.xaml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\PhoneApp1_Release_AnyCPU.xap
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\GoogleAds.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\PlakaSehir.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Forms.Platform.WP8.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\PlakaSehir.pdb
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\GoogleAds.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\App.g.cs
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\MainPage.g.cs
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.Resources.AppResources.resources
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.csproj.GenerateResource.Cache
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\XapCacheFile.xml
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.Resources.AppResources.tr-TR.resources
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\PlakaSehir.WinPhone.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\PlakaSehir.WinPhone.pdb
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\tr-TR\PlakaSehir.WinPhone.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.g.resources
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\tr-TR\PlakaSehir.WinPhone.resources.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.pdb
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Insights.dll
+C:\Users\Erhan\Documents\Visual Studio 2015\Projects\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Insights.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\SplashScreenImage.jpg
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\ApplicationIcon.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\PlakaSehir.WinPhone.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\PlakaSehir.WinPhone.pdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\tr-TR\PlakaSehir.WinPhone.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\AppManifest.xaml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Properties\WMAppManifest.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\PhoneApp1_Release_AnyCPU.xap
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\GoogleAds.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\PlakaSehir.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Forms.Core.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Forms.Platform.WP8.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Forms.Xaml.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Insights.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\System.Windows.Interactivity.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\PlakaSehir.pdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\GoogleAds.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Forms.Core.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Forms.Xaml.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\Xamarin.Insights.xml
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.csprojResolveAssemblyReference.cache
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\App.g.cs
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\MainPage.g.cs
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.g.resources
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.Resources.AppResources.resources
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.Resources.AppResources.tr-TR.resources
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.csproj.GenerateResource.Cache
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\tr-TR\PlakaSehir.WinPhone.resources.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.dll
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\PlakaSehir.WinPhone.pdb
+D:\Stuff\PlakaSehir\PlakaSehir\PlakaSehir.WinPhone\obj\Release\XapCacheFile.xml
